@@ -19,8 +19,8 @@
 
 ***
 ####优秀博客
-*[张云龙](https://github.com/fouber/blog)
-*[玉伯](https://github.com/lifesinger/lifesinger.github.com/issues)
+* [张云龙](https://github.com/fouber/blog)
+* [玉伯](https://github.com/lifesinger/lifesinger.github.com/issues)
 
 ***
 ####面试相关
