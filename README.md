@@ -4,6 +4,7 @@
 
 #####路漫漫其修远，吾将上下求索
 
+#####博客搬运中，有点乱= =
 ***
 ####近期文章
 ######JavaScript
@@ -14,7 +15,7 @@
 * [红宝书整理—创建对象方法](https://github.com/wangbin2015/BLOG/issues/4)    
 
 ######CSS
-* [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/10)  
+* [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
 
 ***
 ####面试相关
