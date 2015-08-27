@@ -1,7 +1,7 @@
 ***
 ![WANGBIN·BLOG](images/readme.jpg)
-####关于博文，若有问题或好的观点    
-####欢迎与我交流：wangbin2014@hotmail.com
+#####目前坐标：辽宁大连
+#####路漫漫其修远，吾将上下求索
 
 ***
 ####近期文章
@@ -23,6 +23,7 @@
 ***
 ####面试相关
 
+* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 
 ***
 ####前端开发面试知识点大纲
