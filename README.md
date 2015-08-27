@@ -6,7 +6,7 @@
 ***
 ####近期文章
 ######JavaScript
-* [《javascript常用函数》](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/javascript%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.md)
+* [《javascript常用函数【持续更新】》](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/javascript%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.md)
 * [《面向对象程序设计——创建对象》](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1.md) 
 * [《Ajax基本应用》](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/Ajax%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8.md) 
 * [《cookie其实很简单》](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/cookie%E5%85%B6%E5%AE%9E%E5%BE%88%E7%AE%80%E5%8D%95.md)        
