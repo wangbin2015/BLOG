@@ -18,6 +18,11 @@
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
 
 ***
+####优秀博客
+*[张云龙](https://github.com/fouber/blog)
+*[玉伯](https://github.com/lifesinger/lifesinger.github.com/issues)
+
+***
 ####面试相关
 
 * [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
