@@ -1,11 +1,13 @@
 ***
 ![WANGBIN·BLOG](images/readme.jpg)
 ####关于博文，若有问题或好的观点    
-####请联系我：wangbin2014@hotmail.com
+####欢迎与我交流：wangbin2014@hotmail.com
 
 ***
 ####近期文章
 ######JavaScript
+
+* [JavaScript兼容总结](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/%E8%BF%B7%E6%83%91%E4%BA%BA%E7%9A%84this%20call%20apply.md)       
 * [遇见的JavaScript高级技巧汇总【持续更新】](https://github.com/wangbin2015/BLOG/blob/master/posts/%E9%81%87%E8%A7%81%E7%9A%84JavaScript%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7%E6%B1%87%E6%80%BB%5B%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%5D.md)
 * [javascript常用函数【持续更新】](https://github.com/wangbin2015/BLOG/blob/master/posts/javascript%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0%5B%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%5D.md)
 * [面向对象程序设计——创建对象](https://github.com/wangbin2015/wangbin2015.github.io/blob/master/blog/posts/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1.md) 
