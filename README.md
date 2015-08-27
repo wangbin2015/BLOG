@@ -1,6 +1,7 @@
 ***
-![WANGBIN·BLOG](images/readme.jpg)
-#####目前坐标：辽宁大连
+![WANGBIN·BLOG](http://a2.qpic.cn/psb?/V13HtaHF3aU80d/zC8dtx5tZ43c2FvcWcg1Ru1w2uhmSt*FU5q0k2secuk!/b/dIoBAAAAAAAA&bo=eAB0AAAAAAADBy4!&rf=viewer_4)
+#####目前坐标：辽宁大连    
+
 #####路漫漫其修远，吾将上下求索
 
 ***
@@ -8,14 +9,9 @@
 ######JavaScript
 
 * [JavaScript兼容总结](https://github.com/wangbin2015/BLOG/issues/1)       
-* [遇见的JavaScript高级技巧汇总【持续更新】](https://github.com/wangbin2015/BLOG/issues/2)
-* [javascript常用函数【持续更新】](https://github.com/wangbin2015/BLOG/issues/3)
-* [面向对象程序设计——创建对象](https://github.com/wangbin2015/BLOG/issues/4) 
-* [Ajax基本应用](https://github.com/wangbin2015/BLOG/issues/5) 
-* [cookie其实很简单](https://github.com/wangbin2015/BLOG/issues/6)        
-* [Array类型方法总结](https://github.com/wangbin2015/BLOG/issues/7)       
-* [闭包是怎么一回事](https://github.com/wangbin2015/BLOG/issues/8)
-* [迷惑人的this call apply](https://github.com/wangbin2015/BLOG/issues/9)   
+* [搬运，遇见的JavaScript技巧持续—持续更新](https://github.com/wangbin2015/BLOG/issues/2)
+* [我的轮子—持续更新](https://github.com/wangbin2015/BLOG/issues/3)
+* [红宝书整理—创建对象方法](https://github.com/wangbin2015/BLOG/issues/4)    
 
 ######CSS
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/10)  
