@@ -12,7 +12,8 @@
 * [JavaScript兼容总结](https://github.com/wangbin2015/BLOG/issues/1)       
 * [搬运，遇见的JavaScript技巧持续—持续更新](https://github.com/wangbin2015/BLOG/issues/2)
 * [我的轮子—持续更新](https://github.com/wangbin2015/BLOG/issues/3)
-* [红宝书整理—创建对象方法](https://github.com/wangbin2015/BLOG/issues/4)    
+* [红宝书整理—创建对象方法](https://github.com/wangbin2015/BLOG/issues/4)
+* [迷惑人的this call apply](https://github.com/wangbin2015/BLOG/issues/6)
 
 ######CSS
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
