@@ -14,6 +14,7 @@
 * [我的轮子—持续更新](https://github.com/wangbin2015/BLOG/issues/3)
 * [红宝书整理—创建对象方法](https://github.com/wangbin2015/BLOG/issues/4)
 * [迷惑人的this call apply](https://github.com/wangbin2015/BLOG/issues/6)
+* [闭包是怎么一回事](https://github.com/wangbin2015/BLOG/issues/7)
 
 ######CSS
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
