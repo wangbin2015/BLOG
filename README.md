@@ -18,6 +18,7 @@
 
 ###### CSS
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
+* [CSS备忘录—持续更新](https://github.com/wangbin2015/BLOG/issues/10)
 
 ###### HTML
 * [本地存储系列—Web Storage](https://github.com/wangbin2015/BLOG/issues/8)  
