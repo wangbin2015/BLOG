@@ -7,7 +7,7 @@
 ######博客搬运中.................
 ***
 ####近期文章
-######JavaScript
+###### JavaScript
 
 * [JavaScript兼容总结](https://github.com/wangbin2015/BLOG/issues/1)       
 * [搬运，遇见的JavaScript技巧持续—持续更新](https://github.com/wangbin2015/BLOG/issues/2)
@@ -16,8 +16,11 @@
 * [迷惑人的this call apply](https://github.com/wangbin2015/BLOG/issues/6)
 * [闭包是怎么一回事](https://github.com/wangbin2015/BLOG/issues/7)
 
-######CSS
+###### CSS
 * [CSS居中布局总结](https://github.com/wangbin2015/BLOG/issues/5)  
+
+###### HTML
+* [本地存储系列—Web Storage](https://github.com/wangbin2015/BLOG/issues/8)  
 
 ***
 ####优秀博客
