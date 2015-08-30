@@ -24,7 +24,7 @@
 * [本地存储系列—Web Storage](https://github.com/wangbin2015/BLOG/issues/8)  
 
 ###### 备忘录
-* [CSS备忘录—持续更新](https://github.com/wangbin2015/BLOG/issues/10)
+* [前端学习备忘录—持续更新](https://github.com/wangbin2015/BLOG/issues/10)
 
 ###### 面试
 * [遇到的面试题回忆与总结](https://github.com/wangbin2015/BLOG/issues/11)
