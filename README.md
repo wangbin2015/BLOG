@@ -39,3 +39,4 @@
 ####优秀教程
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 * [一看就懂的ReactJs入门教程-精华版](http://www.cnblogs.com/yunfeifei/p/4486125.html)
+* [AngularJS中文网](http://www.apjs.net/#)
